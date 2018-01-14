@@ -1,0 +1,6 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://testng.org/testng−1.0.dtd" location="$USER_HOME$/IdeaProjects/ccRPS" />
+    <ignored-resource url="http://testng.org/testng−1.0.dtd" />
+  </component>
+</application>
